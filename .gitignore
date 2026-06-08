@@ -1,0 +1,48 @@
+#################################################
+# Godot 4
+#################################################
+
+# Godot 4 generated data (cache, imports, etc.)
+.godot/
+
+# Import files (should never be committed)
+*.import
+
+#################################################
+# Export / build artifacts
+#################################################
+
+export_presets.cfg
+export.cfg
+
+# Android build outputs (if exporting Android)
+android/
+
+#################################################
+# Mono / C# (only if you're using C#)
+#################################################
+
+.mono/
+data_*/
+mono_crash.*.json
+
+#################################################
+# OS junk files
+#################################################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+#################################################
+# Editor / IDE noise (optional but recommended)
+#################################################
+
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
